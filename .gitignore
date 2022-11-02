@@ -133,4 +133,6 @@ etc/
 Lib/
 Scripts/
 share/
+.idea/
+pyvenv.cfg
 
